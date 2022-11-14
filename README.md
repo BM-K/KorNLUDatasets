@@ -51,6 +51,7 @@ We introduce KorNLI and KorSTS, which are NLI and STS datasets in Korean.
 ### KorNLU Datasets을 활용한 한국어 문장 임베딩 
 
 - https://github.com/BM-K/Sentence-Embedding-is-all-you-need
+- test
 
 ## License
 
